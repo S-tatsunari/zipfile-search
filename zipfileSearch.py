@@ -3,8 +3,8 @@ import pandas as pd
 import time
 
 # Excelファイルの読み込み
-file_path = 'xx'
-df = pd.read_excel(file_path, usecols="B")
+file_path = 'xx' # 使用するファイルパス
+df = pd.read_excel(file_path, usecols="X") 
 
 # ZIPファイルの存在をチェックする関数
 def check_zip_file(url):
