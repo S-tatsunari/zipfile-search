@@ -1,6 +1,6 @@
 # zipfile-search
 
-仕事で使う自動化ツールです。
+仕事で使う自動化ツール
 エクセルファイル内に記されているURLに自動でアクセスしステータスコードでzipファイルの有無を判定
 
 Automation tools for use at work.
